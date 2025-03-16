@@ -1,0 +1,15 @@
+# Python版本要求
+python>=3.6
+
+# 外部依赖
+# FFmpeg - 需要单独安装并添加到系统环境变量
+# Windows: 下载FFmpeg并添加到系统环境变量
+# Linux: sudo apt-get install ffmpeg
+# MacOS: brew install ffmpeg
+
+# 本项目主要使用Python标准库
+# - tkinter (GUI界面)
+# - os (文件操作)
+# - subprocess (调用FFmpeg)
+# - threading (多线程处理)
+# - time (时间处理)
