@@ -73,7 +73,9 @@
 
 © 2025 一模型Ai (https://jmlovestore.com)
 
-## 许可证![123](https://github.com/user-attachments/assets/814e1ae5-61f2-4e35-99f8-1e27fb377864)
+## 许可证
 
 
 MIT License
+
+![123](https://github.com/user-attachments/assets/814e1ae5-61f2-4e35-99f8-1e27fb377864)
